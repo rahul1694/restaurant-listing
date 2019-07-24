@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-listing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mock:api": "json-server --watch db.json --port 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul1694/restaurant-listing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul1694/restaurant-listing/issues"
+  },
+  "homepage": "https://github.com/rahul1694/restaurant-listing#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}

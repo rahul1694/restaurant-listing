@@ -1,89 +1,91 @@
-[
-    {
-        "id": 2875,
-        "name": "Minerva Xpress",
-        "image_url": "Some Url",
-        "description": "Pure South Indian Restaurent",
-        "location": "Hitech City",
-        "ETA": 35,
-        "tags": ["South Indian"],
-        "rating": 4.2,
-        "price_two": 300,
-        "discount": {
-            "coupon_name": "SWIGGY40",
-            "coupon_value": "40"
+{
+    "data": [
+        {
+            "id": 2875,
+            "name": "Minerva Xpress",
+            "image_url": "Some Url",
+            "description": "Pure South Indian Restaurent",
+            "location": "Hitech City",
+            "ETA": 35,
+            "tags": ["South Indian"],
+            "rating": 4.2,
+            "price_two": 300,
+            "discount": {
+                "coupon_name": "SWIGGY40",
+                "coupon_value": "40"
+            }
+        },
+        {
+            "id": 3443,
+            "name": "Pista House Bakery & Restaurent",
+            "image_url": "Some Url",
+            "description": "Authentic Hyderabdi Birnayi",
+            "location": "Manikonda",
+            "ETA": 38,
+            "tags": ["Biryani", "Hyderabadi", "North Indian", "Tandoori"],
+            "rating": 4.1,
+            "price_two": 400,
+            "discount": {
+                "coupon_name": "SWIGGY40",
+                "coupon_value": "40"
+            }
+        },
+        {
+            "id": 6783,
+            "name": "Pepper Jack",
+            "image_url": "Some Url",
+            "description": "Best Pizzas in town!!",
+            "location": "Hitech City",
+            "ETA": 40,
+            "tags": ["Pizzas", "Fast Food"],
+            "rating": 4.1,
+            "price_two": 300,
+            "discount": {
+                "coupon_name": "SWIGGYIT",
+                "coupon_value": "30"
+            }
+        },
+        {
+            "id": 8901,
+            "name": "Scoops",
+            "image_url": "Some Url",
+            "description": "Fruit falvour ice-creams",
+            "location": "Hitech City",
+            "ETA": 34,
+            "tags": ["Ice Cream", "Desserts"],
+            "rating": 4.3,
+            "price_two": 300,
+            "discount": {}
+        },
+        {
+            "id": 4451,
+            "name": "Godavari Ruchulu",
+            "image_url": "Some Url",
+            "description": "Authentic food from godavari",
+            "location": "Hitech City",
+            "ETA": 29,
+            "tags": ["South Indian"],
+            "rating": 4.0,
+            "price_two": 500,
+            "discount": {
+                "coupon_name": "SWIGGY10",
+                "coupon_value": "10"
+            }
+        },
+        {
+            "id": 6573,
+            "name": "Cream Stone",
+            "image_url": "Some Url",
+            "description": "Stone Based Ice - Creams",
+            "location": "Hitech City",
+            "ETA": 30,
+            "tags": ["Ice Cream", "Desserts"],
+            "rating": 4.4,
+            "price_two": 350,
+            "discount": {
+                "coupon_name": "SWIGGY20",
+                "coupon_value": "20"
+            }
         }
-    },
-    {
-        "id": 3443,
-        "name": "Pista House Bakery & Restaurent",
-        "image_url": "Some Url",
-        "description": "Authentic Hyderabdi Birnayi",
-        "location": "Hitech City",
-        "ETA": 38,
-        "tags": ["Biryani", "Hyderabadi", "North Indian", "Tandoori"],
-        "rating": 4.1,
-        "price_two": 400,
-        "discount": {
-            "coupon_name": "SWIGGY40",
-            "coupon_value": "40"
-        }
-    },
-    {
-        "id": 6783,
-        "name": "Pepper Jack",
-        "image_url": "Some Url",
-        "description": "Best Pizzas in town!!",
-        "location": "Hitech City",
-        "ETA": 40,
-        "tags": ["Pizzas", "Fast Food"],
-        "rating": 4.1,
-        "price_two": 300,
-        "discount": {
-            "coupon_name": "SWIGGYIT",
-            "coupon_value": "30"
-        }
-    },
-    {
-        "id": 8901,
-        "name": "Scoops",
-        "image_url": "Some Url",
-        "description": "Fruit falvour ice-creams",
-        "location": "Hitech City",
-        "ETA": 34,
-        "tags": ["Ice Cream", "Desserts"],
-        "rating": 4.3,
-        "price_two": 300,
-        "discount": {}
-    },
-    {
-        "id": 4451,
-        "name": "Godavari Ruchulu",
-        "image_url": "Some Url",
-        "description": "Authentic food from godavari",
-        "location": "Hitech City",
-        "ETA": 29,
-        "tags": ["South Indian"],
-        "rating": 4.0,
-        "price_two": 500,
-        "discount": {
-            "coupon_name": "SWIGGY10",
-            "coupon_value": "10"
-        }
-    },
-    {
-        "id": 6573,
-        "name": "Cream Stone",
-        "image_url": "Some Url",
-        "description": "Stone Based Ice - Creams",
-        "location": "Hitech City",
-        "ETA": 30,
-        "tags": ["Ice Cream", "Desserts"],
-        "rating": 4.4,
-        "price_two": 350,
-        "discount": {
-            "coupon_name": "SWIGGY20",
-            "coupon_value": "20"
-        }
-    }
-]
+    ]
+}

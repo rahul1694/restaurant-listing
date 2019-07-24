@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#list-restaurents {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#rest-card {
+    display: flex;
+    width: 20%;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    margin: 15px;
+}

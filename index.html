@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title> Restaurent Listing </title>
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./styles.css" /> 
+        <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+    </head>
+    <body>
+        <div id="container">
+                <select id="sorting">
+                    <option value="select" selected disabled>Select</option>
+                    <option value="name">Name</option>
+                    <option value="ETA">ETA</option>
+                    <option value="rating">Rating</option>
+                    <option value="price_two">Price For 2</option>
+                    <option value="location">Location</option>
+                </select>
+
+                <select id="tags">
+                        <option value="select" selected disabled>Select</option>
+                </select>
+            
+                    <div id="list-restaurents">
+                    </div>
+        </div>
+
+       
+
+        <script src="./app.js"></script>
+    </body>
+</html>
